@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AuthHomepageTest/static/css/main.edb63327.css",
+    "main.js": "/AuthHomepageTest/static/js/main.088db4e8.js",
+    "index.html": "/AuthHomepageTest/index.html",
+    "main.edb63327.css.map": "/AuthHomepageTest/static/css/main.edb63327.css.map",
+    "main.088db4e8.js.map": "/AuthHomepageTest/static/js/main.088db4e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edb63327.css",
+    "static/js/main.088db4e8.js"
+  ]
+}
